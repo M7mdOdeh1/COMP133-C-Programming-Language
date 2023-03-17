@@ -1,1 +1,1 @@
-COMP133: C-Programming-Language Assignments and Project
+COMP133: C Assignments and Project
