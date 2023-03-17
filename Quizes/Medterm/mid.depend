@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622094468 source:c:\users\nour al-sham\desktop\projocts\mid\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1622094799 source:c:\users\nour al-sham\desktop\projocts\quizes\mid\main.c
+	<stdio.h>
+	<stdlib.h>
+
