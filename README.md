@@ -1,1 +1,1 @@
-COMP133: C Assignments and Project
+COMP133: C LabWorks, Quizes, Assignments, and Project
