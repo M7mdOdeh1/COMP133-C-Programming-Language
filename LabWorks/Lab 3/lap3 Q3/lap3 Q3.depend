@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616538527 source:c:\users\nour al-sham\desktop\projocts\lap3 q3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
