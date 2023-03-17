@@ -1,0 +1,8 @@
+charges for 12/2021
+12345 8.30 7.99 0.96
+21345 12.40 12.77 1.03
+21345 93.20 173.56 1.86
+please enter a five digit number for the customer id
+please enter a five digit number for the customer id
+32456 4.60 7.99 1.74
+please enter a five digit number for the customer id
