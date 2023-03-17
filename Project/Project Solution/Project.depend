@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623098078 source:c:\users\nour al-sham\desktop\projocts\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1651577160 source:d:\lectures's notes\1st year\2sec semester\computer and programming\c projocts\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
